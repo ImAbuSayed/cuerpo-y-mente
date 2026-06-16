@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cuerpo y mente
+
+This log tracks the cryptographic history and versioning for the song **Cuerpo y mente** (cuerpo-y-mente).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:07:14.837232 | `v1` | `18b697a7d850dac91f197f2efb32d23cebbaa24fd97a4b3e45014c619db37156` | `80cd2533d9fb2eed486a304c00a5b86600feaf9a64d5ef3c087c1f13fb41a9cc` | `2026-06-16_cuerpo-y-mente-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
