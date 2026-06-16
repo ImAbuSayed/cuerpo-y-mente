@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-y-mente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cuerpo y mente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-y-mente/) |
+| **Get License** | [Get a Licensing Quote for Cuerpo y mente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-y-mente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras de reojo y se me para el tiempo
+> Baby, you know, que me tienes sin aliento
+> Esa boquita me pide un perreo lento
+> Quiero perderme en tu piel y en tu pensamiento
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
